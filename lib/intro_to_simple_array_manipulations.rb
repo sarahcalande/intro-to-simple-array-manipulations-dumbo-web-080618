@@ -27,7 +27,7 @@ def using_concat(arr1,arr2)
 end
 
 def using_insert(list_of_esoteric_programming_languages, another_esoteric_language)
-  array.insert(element)
+  list_of_esoteric_programming_languages.insert(element)
 end
 
 def using_uniq(array)
