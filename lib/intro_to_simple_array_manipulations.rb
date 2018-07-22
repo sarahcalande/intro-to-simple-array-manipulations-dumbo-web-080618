@@ -38,9 +38,9 @@ def using_flatten(array)
   array.flatten
 end
 
-def using_delete(instructors)
+def using_delete(instructors, "Steven")
   instructors.delete("Steven")
 end
 
-def using_delete_at(famous_robots)
+def using_delete_at(famous_robots, 2)
   famous_robots.delete(2)
